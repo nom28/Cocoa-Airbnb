@@ -1,0 +1,560 @@
+Log
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 disconnected
+Apartment #1007 surpassed availability - removed from database
+Apartment #1011 surpassed availability - removed from database
+Apartment #1014 surpassed availability - removed from database
+Apartment #1018 surpassed availability - removed from database
+127.0.0.1 connected
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+user #1001 has rented apartment #1021, 2023-03-30 00:00:00 - 2023-04-02 00:00:00
+user #1001 has rented apartment #1015, 2018-01-01 00:00:00 - 2018-01-03 00:00:00
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+User #1001 removed reservation at #1021 in 30.3.2023 - 2.4.2023
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+Apartment #1020 was deleted
+127.0.0.1 connected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+Apartment #1017 was deleted
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+Apartment #1021 was deleted
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+user #1001 uploaded new apartment #1000
+Apartment #1000 surpassed availability - removed from database
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+user #1001 uploaded new apartment #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1002
+user #1002 has rented apartment #1001, 2002-01-01 00:00:00 - 2002-01-02 00:00:00
+User #1002 removed reservation at #1001 in 1.1.2002 - 2.1.2002
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+Apartment #1001 surpassed availability - removed from database
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+user #1001 uploaded new apartment #1002
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1002
+user #1002 has rented apartment #1002, 2023-04-29 00:00:00 - 2023-05-03 00:00:00
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+Apartment #1002 was deleted
+127.0.0.1 connected
+10.0.0.20 logged into user #1
+127.0.0.1 connected
+10.0.0.20 logged into user #1
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 logged into user #1
+10.0.0.20 disconnected
+127.0.0.1 connected
+10.0.0.20 disconnected
+127.0.0.1 connected
+127.0.0.1 connected
+127.0.0.1 connected
+10.0.0.20 logged into user #1002
+user #1002 uploaded new apartment #1003
+10.0.0.20 disconnected
+127.0.0.1 connected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+user #1001 uploaded new apartment #1004
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+user #1001 uploaded new apartment #1005
+127.0.0.1 connected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1002
+127.0.0.1 connected
+127.0.0.1 connected
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+127.0.0.1 connected
+10.0.0.20 logged into user #1001
+user #1001 has rented apartment #1005, 2022-05-14 00:00:00 - 2022-05-17 00:00:00
+10.0.0.20 disconnected
+127.0.0.1 connected
+172.17.8.217 disconnected
+127.0.0.1 connected
+172.17.8.217 logged into user #1001
+172.17.8.217 disconnected
+127.0.0.1 connected
+172.17.8.217 logged into user #1002
+user #1002 has rented apartment #1005, 2022-04-03 00:00:00 - 2022-04-05 00:00:00
+172.17.8.217 disconnected
+127.0.0.1 connected
+172.17.8.217 logged into user #1001
+user #1001 uploaded new apartment #1000
+172.17.8.217 disconnected
+127.0.0.1 connected
+172.17.8.217 logged into user #1002
+user #1002 has rented apartment #1005, 2021-01-03 00:00:00 - 2021-01-04 00:00:00
+172.17.8.217 disconnected
+127.0.0.1 connected
+172.17.8.217 logged into user #1002
+127.0.0.1 connected
+172.17.8.217 logged into user #1002
+172.17.8.217 disconnected
+127.0.0.1 connected
+127.0.0.1 logged into user #1
+127.0.0.1 disconnected
+127.0.0.1 connected
+127.0.0.1 logged into user #1
+127.0.0.1 disconnected
+127.0.0.1 connected
+127.0.0.1 logged into user #1
+127.0.0.1 disconnected
+127.0.0.1 connected
+127.0.0.1 logged into user #1
+127.0.0.1 disconnected
+127.0.0.1 connected
+127.0.0.1 logged into user #1
+127.0.0.1 disconnected
+127.0.0.1 connected
+127.0.0.1 logged into user #1
+127.0.0.1 disconnected
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 logged into user #1
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 disconnected
+127.0.0.1 connected
+127.0.0.1 connected
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.100.102.114 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.24 disconnected
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+127.0.0.1 connected
+10.0.0.24 logged into user #1001
+127.0.0.1 connected
+10.0.0.24 logged into user #1
+10.0.0.38 connected
+10.0.0.8 connected
+10.0.0.8 logged into user #1
+10.0.0.8 logged into user #1001
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 logged into user #1001
+10.0.0.8 disconnected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 disconnected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.38 connected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 logged into user #1001
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 logged into user #1001
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 logged into user #1001
+user #1001 has rented apartment #1003, 2022-07-05 00:00:00 - 2022-07-07 00:00:00
+10.0.0.38 connected
+10.0.0.8 logged into user #1
+10.0.0.8 disconnected
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 logged into user #1001
+user #1001 has rented apartment #1003, 2022-07-05 00:00:00 - 2022-07-07 00:00:00
+10.0.0.8 connected
+10.0.0.8 logged into user #1
+10.0.0.8 disconnected
+10.0.0.8 connected
+10.0.0.8 logged into user #1001
+10.0.0.8 disconnected

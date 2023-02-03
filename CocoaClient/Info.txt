@@ -1,0 +1,35 @@
+Hey! Welcome to Cocoa -
+COmfortable COasy Apartments
+
+To order an Apartment:
+Set your dates on the right side
+the map will show you all the available
+apartments on these dates.
+Then, choose an apartment, you will be
+able to see relevant details and photos.
+If you decide that you like that
+apartment, you can click the reserve button!
+it will reserve the apartment to your user
+with the dates provided before.
+You won't have to log in to browse
+apartments, but to reserve one you do!
+
+
+To upload a new apartment:
+Right-click on the map, on the location of
+the new apartment. (you will need to be
+logged in), fill in the relevant information.
+to add photos, make sure that they are PNG
+and in the same folder. then drag to choose
+all the photos and select ok.
+Once you are done press the upload button
+and your apartment will be available for
+people to browse!
+
+
+Cocoa currently only accepts png pictures,
+sorry for the inconvenience
+
+We sadly do not support payback upon
+cancellation.
+If you cancel, you won't be paid back
